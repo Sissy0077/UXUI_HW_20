@@ -2,3 +2,12 @@ img {
     border-radius: 5%;
   }
 
+.jumbotron{
+  background: url(../Images/Splash.crop2.png);
+  width: auto;
+  background-repeat: unset;
+  background-position: center
+    }
+.container {
+  background-color: #E6F1F6;
+  }
