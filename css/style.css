@@ -11,3 +11,8 @@ img {
 .container {
   background-color: #E6F1F6;
   }
+.navbar navbar-expand-sm bg-dark navbar-dark {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
