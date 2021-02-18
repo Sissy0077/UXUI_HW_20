@@ -2,7 +2,13 @@ img {
     border-radius: 5%;
   }
 
+
 .jumbotron{
+  display: grid;
+  position:sticky;
+  top: 0;
+  grid-template-rows: 200px;
+  grid-template-columns: 20% 80%;
   background: url(../Images/Splash.crop2.png);
   width: auto;
   background-repeat: unset;
